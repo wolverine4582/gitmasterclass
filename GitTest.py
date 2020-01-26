@@ -7,7 +7,3 @@ print("I am Thanos")
 print("I am Vision")
 print("I am Starlord")
 print("I am Groot")
-
-
-
-
